@@ -1,0 +1,39 @@
+
+Tipo de contacto: PERSONA
+Nombres: Juan
+Apellidos: Perez
+dni: 123456789
+Dirección: Calle Falsa 123
+Fecha de nacimiento: 1999-05-15
+
+Tipo de contacto: EMPRESA
+Nombres: Empresa Falsa SA
+cuit: 12345678901
+Dirección: Avenida Falsa 123
+Fecha de fundación: 2000-05-15
+
+Tipo de contacto: PERSONA
+Nombres: Loana
+Apellidos: Heredia
+dni: 34344985
+Dirección: Jujuy 1500
+Fecha de nacimiento: 1998-11-27
+
+Tipo de contacto: EMPRESA
+Nombres: Coca Cola
+cuit: 1
+Dirección: Avenida Pellegrini 100
+Fecha de fundación: 1985-04-06
+
+Tipo de contacto: PERSONA
+Nombres: Andrés
+Apellidos: Gonzalez
+dni: 33226718
+Dirección: Salta 1500
+Fecha de nacimiento: 1987-10-25
+
+Tipo de contacto: EMPRESA
+Nombres: Noblex
+cuit: 2
+Dirección: Avenida Francia 500
+Fecha de fundación: 1800-12-31
